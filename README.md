@@ -1,4 +1,4 @@
-* This game was built as an exercise in utilizing Web Development Tutorial utilizing JavaScript, HTML, CSS by [freeCodeCamp](https://youtu.be/jaVNP3nIAv0)
+* This game was built as an exercise in utilizing Web Development Tutorial coded in mainly JavaScript, HTML, CSS. Please click [freeCodeCamp](https://youtu.be/jaVNP3nIAv0) to access it.
 
 ### Instructions
 
