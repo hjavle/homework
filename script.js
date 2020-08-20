@@ -71,8 +71,6 @@ function main(){
     
 }
 
-
-
 function game(userChoice){
     noOfPlays++;
     if(noOfPlays < 10)
@@ -98,8 +96,11 @@ function game(userChoice){
 }
 else if(userScore > computerScore){
     result_p.innerHTML= "You Win Game over";
-}else
+}else if(userScore < computerScore){
 result_p.innerHTML= "You lost Game over";
+} else
+result_p.innerHTML= "You both draw Game over";
+
 }
 
 main();
